@@ -29,6 +29,7 @@
 
 			<nav>
 				<a href="/#projects">Projects</a>
+				<a href="http://photo.chrisholder.me">Photo</a>
 				<a href="mailto:chrislholder@gmail.com">Email</a>
 				<a href="https://instagram.com/chrislholder" target="_blank">Instagram</a>
 				<a href="https://github.com/see8ch" target="_blank">Github</a>
